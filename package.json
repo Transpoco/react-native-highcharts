@@ -1,6 +1,6 @@
 {
   "name": "react-native-highcharts",
-  "version": "1.1.0",
+  "version": "2.2.0",
   "description":
     "JavaScript implementation of a view container that can flip between its front and back, where the back has a console.log and the front is your aplication.",
   "main": "react-native-highcharts.js",
@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/TradingPal/react-native-highcharts#readme",
   "dependencies": {
-    "react-native-webview": "^5.6.2"
+    "react-native-webview": "^10.2.3"
   }
 }
